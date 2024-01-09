@@ -4,14 +4,10 @@ date: 2024-02-20
 description: 셜록 홈즈의 모리아티 교수 MBTI 알아보기
 author: Persona Colorist
 tags:
-  - Sherlock
-  - Holmes
-  - Professor
-  - Moriarty
-  - 셜록
-  - 홈즈
-  - 모리아티
-  - 교수
+  - Sherlock Holmes
+  - Professor Moriarty
+  - 셜록 홈즈
+  - 모리아티 교수
   - MBTI
   - INTJ
 draft: false

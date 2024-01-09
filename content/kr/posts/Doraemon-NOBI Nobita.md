@@ -5,8 +5,7 @@ description: 도라에몽의 노진구 MBTI 알아보기
 author: Persona Colorist
 tags:
   - Doraemon
-  - NOBI
-  - Nobita
+  - NOBI Nobita
   - 도라에몽
   - 노진구
   - MBTI

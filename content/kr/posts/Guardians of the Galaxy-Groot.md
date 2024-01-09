@@ -4,14 +4,9 @@ date: 2024-02-14
 description: 가디언즈 오브 갤럭시의 그루트 MBTI 알아보기
 author: Persona Colorist
 tags:
-  - Guardians
-  - of
-  - the
-  - Galaxy
+  - Guardians of the Galaxy
   - Groot
-  - 가디언즈
-  - 오브
-  - 갤럭시
+  - 가디언즈 오브 갤럭시
   - 그루트
   - MBTI
   - ISFJ

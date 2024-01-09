@@ -5,8 +5,7 @@ description: 주토피아의 닉 와일드 MBTI 알아보기
 author: Persona Colorist
 tags:
   - ZOOTOPIA
-  - Nick
-  - Wilde
+  - Nick Wilde
   - 주토피아
   - 닉
   - 와일드

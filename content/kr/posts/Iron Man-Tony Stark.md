@@ -4,13 +4,10 @@ date: 2024-02-08
 description: 아이언맨의 토니 스타크 MBTI 알아보기
 author: Persona Colorist
 tags:
-  - Iron
-  - Man
-  - Tony
-  - Stark
+  - Iron Man
+  - Tony Stark
   - 아이언맨
-  - 토니
-  - 스타크
+  - 토니 스타크
   - MBTI
   - ENTP
 draft: false

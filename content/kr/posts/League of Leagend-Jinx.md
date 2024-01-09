@@ -4,13 +4,9 @@ date: 2024-02-11
 description: 리그 오브 레전드의 징크스 MBTI 알아보기
 author: Persona Colorist
 tags:
-  - Leage
-  - of
-  - Leagend
+  - League of Leagend
   - Jinx
-  - 리그
-  - 오브
-  - 레전드
+  - 리그 오브 레전드
   - 징크스
   - MBTI
   - ENFP

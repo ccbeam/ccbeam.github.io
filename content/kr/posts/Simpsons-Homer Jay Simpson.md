@@ -5,9 +5,7 @@ description: 심슨의 호머 심슨 MBTI 알아보기
 author: Persona Colorist
 tags:
   - Simpsons
-  - Homer
-  - Jay
-  - Simpson
+  - Homer Jay Simpson
   - 심슨
   - 호머
   - 심슨

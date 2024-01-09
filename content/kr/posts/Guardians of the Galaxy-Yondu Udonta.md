@@ -4,15 +4,9 @@ date: 2024-02-17
 description: 가디언즈 오브 갤럭시의 욘두 MBTI 알아보기
 author: Persona Colorist
 tags:
-  - Guardians
-  - of
-  - the
-  - Galaxy
-  - Yondu
-  - Udonta
-  - 가디언즈
-  - 오브
-  - 갤럭시
+  - Guardians of the Galaxy
+  - Yondu Udonta
+  - 가디언즈 오브 갤럭시
   - 욘두
   - MBTI
   - ESTP

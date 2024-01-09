@@ -4,17 +4,10 @@ date: 2024-02-05
 description: 종의 기원의 찰스 다윈 MBTI 알아보기
 author: Persona Colorist
 tags:
-  - On
-  - the
-  - origin
-  - of
-  - species
-  - Charles
-  - Darwin
-  - 종의
-  - 기원
-  - 찰스
-  - 다윈
+  - On the origin of species
+  - Charles Darwin
+  - 종의 기원
+  - 찰스 다윈
   - MBTI
   - INTP
 draft: false

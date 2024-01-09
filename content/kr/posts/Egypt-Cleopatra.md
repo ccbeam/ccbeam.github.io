@@ -7,8 +7,7 @@ tags:
   - Egypt
   - Cleopatra
   - 이집트
-  - 클레오
-  - 파트라
+  - 클레오 파트라
   - MBTI
   - ENTJ
 draft: false

@@ -5,11 +5,9 @@ description: 프랑스의 마리 앙투아네트 MBTI 알아보기
 author: Persona Colorist
 tags:
   - France
-  - Marie
-  - Antoinette
+  - Marie Antoinette
   - 프랑스
-  - 마리
-  - 앙투아네트
+  - 마리 앙투아네트
   - MBTI
   - ESFP
 draft: false
