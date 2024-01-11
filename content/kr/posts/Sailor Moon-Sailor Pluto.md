@@ -1,7 +1,7 @@
 ---
 title: 세일러문의 세일러 플루토 MBTI 알아보기
 date: 2024-03-24
-description: 세일러문의 세일러 플루토 MBTI 알아보기
+description: MBTI로 알아보는 세일러 플루토의 컬러 팔레트
 author: Persona Colorist
 tags:
   - Sailor Moon

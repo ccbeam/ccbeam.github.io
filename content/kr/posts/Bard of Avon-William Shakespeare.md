@@ -1,7 +1,7 @@
 ---
 title: 에이본 음유시인의 윌리엄 셰익스피어 MBTI 알아보기
 date: 2024-07-28
-description: 에이본 음유시인의 윌리엄 셰익스피어 MBTI 알아보기
+description: MBTI로 알아보는 윌리엄 셰익스피어의 컬러 팔레트
 author: Persona Colorist
 tags:
   - Bard of Avon

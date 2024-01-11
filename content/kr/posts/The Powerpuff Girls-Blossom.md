@@ -1,7 +1,7 @@
 ---
 title: 파워퍼프걸의 블로썸 MBTI 알아보기
 date: 2024-06-28
-description: 파워퍼프걸의 블로썸 MBTI 알아보기
+description: MBTI로 알아보는 블로썸의 컬러 팔레트
 author: Persona Colorist
 tags:
   - The Powerpuff Girls

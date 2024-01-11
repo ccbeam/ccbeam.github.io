@@ -1,7 +1,7 @@
 ---
 title: 빨간망토 차차의 세라비 MBTI 알아보기
 date: 2024-06-16
-description: 빨간망토 차차의 세라비 MBTI 알아보기
+description: MBTI로 알아보는 세라비의 컬러 팔레트
 author: Persona Colorist
 tags:
   - Akazukin Chacha

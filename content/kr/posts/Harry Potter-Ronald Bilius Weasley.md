@@ -1,7 +1,7 @@
 ---
 title: 해리 포터의 론 위즐리 MBTI 알아보기
 date: 2024-05-05
-description: 해리 포터의 론 위즐리 MBTI 알아보기
+description: MBTI로 알아보는 론 위즐리의 컬러 팔레트
 author: Persona Colorist
 tags:
   - Harry Potter

@@ -1,7 +1,7 @@
 ---
 title: 스타 워즈의 다스 베이더 MBTI 알아보기
 date: 2024-05-23
-description: 스타 워즈의 다스 베이더 MBTI 알아보기
+description: MBTI로 알아보는 다스 베이더의 컬러 팔레트
 author: Persona Colorist
 tags:
   - Star Wars

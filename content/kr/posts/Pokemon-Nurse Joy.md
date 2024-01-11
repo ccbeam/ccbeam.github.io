@@ -1,7 +1,7 @@
 ---
 title: 포켓몬스터의 간호순 MBTI 알아보기
 date: 2024-06-25
-description: 포켓몬스터의 간호순 MBTI 알아보기
+description: MBTI로 알아보는 간호순의 컬러 팔레트
 author: Persona Colorist
 tags:
   - Pokemon

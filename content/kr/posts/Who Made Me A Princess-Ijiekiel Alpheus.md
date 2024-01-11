@@ -1,7 +1,7 @@
 ---
 title: 어느날 공주가 되어버렸다의 이제키엘 MBTI 알아보기
 date: 2024-05-17
-description: 어느날 공주가 되어버렸다의 이제키엘 MBTI 알아보기
+description: MBTI로 알아보는 이제키엘의 컬러 팔레트
 author: Persona Colorist
 tags:
   - Who Made Me A Princess

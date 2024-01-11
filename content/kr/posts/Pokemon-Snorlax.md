@@ -1,7 +1,7 @@
 ---
 title: 포켓몬스터의 잠만보 MBTI 알아보기
 date: 2024-06-22
-description: 포켓몬스터의 잠만보 MBTI 알아보기
+description: MBTI로 알아보는 잠만보의 컬러 팔레트
 author: Persona Colorist
 tags:
   - Pokemon

@@ -1,7 +1,7 @@
 ---
 title: 빨간망토 차차의 빙빙 MBTI 알아보기
 date: 2024-06-13
-description: 빨간망토 차차의 빙빙 MBTI 알아보기
+description: MBTI로 알아보는 빙빙의 컬러 팔레트
 author: Persona Colorist
 tags:
   - Akazukin Chacha

@@ -1,7 +1,7 @@
 ---
 title: 세일러문의 턱시도 가면 MBTI 알아보기
 date: 2024-03-27
-description: 세일러문의 턱시도 가면 MBTI 알아보기
+description: MBTI로 알아보는 턱시도 가면의 컬러 팔레트
 author: Persona Colorist
 tags:
   - Sailor Moon

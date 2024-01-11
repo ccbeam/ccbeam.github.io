@@ -1,7 +1,7 @@
 ---
 title: 해리 포터의 시리우스 블랙 MBTI 알아보기
 date: 2024-04-26
-description: 해리 포터의 시리우스 블랙 MBTI 알아보기
+description: MBTI로 알아보는 시리우스 블랙의 컬러 팔레트
 author: Persona Colorist
 tags:
   - Harry Potter

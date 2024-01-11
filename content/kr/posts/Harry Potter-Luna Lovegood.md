@@ -1,7 +1,7 @@
 ---
 title: 해리 포터의 루나 러브굿 MBTI 알아보기
 date: 2024-04-11
-description: 해리 포터의 루나 러브굿 MBTI 알아보기
+description: MBTI로 알아보는 루나 러브굿의 컬러 팔레트
 author: Persona Colorist
 tags:
   - Harry Potter

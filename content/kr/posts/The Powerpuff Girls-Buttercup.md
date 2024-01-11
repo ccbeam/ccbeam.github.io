@@ -1,7 +1,7 @@
 ---
 title: 파워퍼프걸의 버터컵 MBTI 알아보기
 date: 2024-07-04
-description: 파워퍼프걸의 버터컵 MBTI 알아보기
+description: MBTI로 알아보는 버터컵의 컬러 팔레트
 author: Persona Colorist
 tags:
   - The Powerpuff Girls

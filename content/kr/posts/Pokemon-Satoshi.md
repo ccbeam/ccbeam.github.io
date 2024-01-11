@@ -1,7 +1,7 @@
 ---
 title: 포켓몬스터의 한지우 MBTI 알아보기
 date: 2024-06-19
-description: 포켓몬스터의 한지우 MBTI 알아보기
+description: MBTI로 알아보는 한지우의 컬러 팔레트
 author: Persona Colorist
 tags:
   - Pokemon

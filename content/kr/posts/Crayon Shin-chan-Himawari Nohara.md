@@ -1,7 +1,7 @@
 ---
 title: 짱구는 못말려의 짱아 MBTI 알아보기
 date: 2024-07-13
-description: 짱구는 못말려의 짱아 MBTI 알아보기
+description: MBTI로 알아보는 짱아의 컬러 팔레트
 author: Persona Colorist
 tags:
   - Crayon Shin-chan

@@ -1,7 +1,7 @@
 ---
 title: 로마의 율리우스 카이사르 MBTI 알아보기
 date: 2024-02-29
-description: 로마의 율리우스 카이사르 MBTI 알아보기
+description: MBTI로 알아보는 율리우스 카이사르의 컬러 팔레트
 author: Persona Colorist
 tags:
   - Rome

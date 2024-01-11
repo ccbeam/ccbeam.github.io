@@ -1,7 +1,7 @@
 ---
 title: 세일러문의 세일러 주피터 MBTI 알아보기
 date: 2024-04-02
-description: 세일러문의 세일러 주피터 MBTI 알아보기
+description: MBTI로 알아보는 세일러 주피터의 컬러 팔레트
 author: Persona Colorist
 tags:
   - Sailor Moon
