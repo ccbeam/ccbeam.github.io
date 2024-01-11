@@ -7,8 +7,7 @@ tags:
   - ZOOTOPIA
   - Nick Wilde
   - 주토피아
-  - 닉
-  - 와일드
+  - 닉 와일드
   - MBTI
   - ENTP
 draft: false
