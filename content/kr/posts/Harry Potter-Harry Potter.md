@@ -4,8 +4,6 @@ date: 2024-04-08
 description: MBTI로 알아보는 해리 포터의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Harry Potter
-  - Harry Potter
   - 해리 포터
   - 해리 포터
   - MBTI

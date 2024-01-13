@@ -4,9 +4,6 @@ date: 2024-02-23
 description: 셜록 홈즈의 셜록 홈즈 MBTI 알아보기
 author: Persona Colorist
 tags:
-  - Sherlock Holmes
-  - Sherlock Holmes
-  - 셜록 홈즈
   - 셜록 홈즈
   - MBTI
   - ISTP

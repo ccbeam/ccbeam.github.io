@@ -4,8 +4,6 @@ date: 2024-03-21
 description: MBTI로 알아보는 세일러 넵튠의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Sailor Moon
-  - Sailor Neptune
   - 세일러문
   - 세일러 넵튠
   - MBTI

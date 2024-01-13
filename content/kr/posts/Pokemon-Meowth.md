@@ -4,8 +4,6 @@ date: 2023-12-31
 description: 포켓몬스터의 나옹 MBTI 알아보기
 author: Persona Colorist
 tags:
-  - Pokemon
-  - Meowth
   - 포켓몬스터
   - 나옹
   - MBTI

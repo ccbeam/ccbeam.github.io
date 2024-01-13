@@ -4,8 +4,6 @@ date: 2024-06-07
 description: MBTI로 알아보는 차차의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Akazukin Chacha
-  - Chacha
   - 빨간망토 차차
   - 차차
   - MBTI

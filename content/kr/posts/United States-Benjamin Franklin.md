@@ -4,11 +4,8 @@ date: 2024-01-27
 description: 미국의 벤자민 프랭클린 MBTI 알아보기
 author: Persona Colorist
 tags:
-  - United States
-  - Benjamin Franklin
   - 미국
-  - 벤자민
-  - 프랭클린
+  - 벤자민 프랭클린
   - MBTI
   - ENTP
 draft: false

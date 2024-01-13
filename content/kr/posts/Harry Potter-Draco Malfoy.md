@@ -4,8 +4,6 @@ date: 2024-04-17
 description: MBTI로 알아보는 말포이의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Harry Potter
-  - Draco Malfoy
   - 해리 포터
   - 말포이
   - MBTI

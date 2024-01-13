@@ -4,8 +4,6 @@ date: 2024-01-30
 description: 에스파의 지젤 MBTI 알아보기
 author: Persona Colorist
 tags:
-  - aespa
-  - Giselle
   - 에스파
   - 지젤
   - MBTI

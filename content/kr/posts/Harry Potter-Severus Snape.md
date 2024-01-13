@@ -4,8 +4,6 @@ date: 2024-04-20
 description: MBTI로 알아보는 스네이프의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Harry Potter
-  - Severus Snape
   - 해리 포터
   - 스네이프
   - MBTI

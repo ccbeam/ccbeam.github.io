@@ -4,8 +4,6 @@ date: 2024-06-01
 description: MBTI로 알아보는 쓰리피오의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Star Wars
-  - C-3PO
   - 스타 워즈
   - 쓰리피오
   - MBTI

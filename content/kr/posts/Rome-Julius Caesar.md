@@ -4,10 +4,9 @@ date: 2024-02-29
 description: MBTI로 알아보는 율리우스 카이사르의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Rome
-  - Julius Caesar
   - 로마
   - 율리우스 카이사르
+  - 줄리어스 시저
   - MBTI
   - ENTJ
 draft: true

@@ -4,10 +4,7 @@ date: 2024-01-03
 description: 카카오 프렌즈의 춘식이 MBTI 알아보기
 author: Persona Colorist
 tags:
-  - Kakao Friends
-  - Choonsik
-  - 카카오
-  - 프렌즈
+  - 카카오 프렌즈
   - 춘식이
   - MBTI
   - INFP

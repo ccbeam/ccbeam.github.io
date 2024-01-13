@@ -4,8 +4,6 @@ date: 2024-05-20
 description: MBTI로 알아보는 아나킨 스카이워커의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Star Wars
-  - Anakin Skywalker
   - 스타 워즈
   - 아나킨 스카이워커
   - MBTI

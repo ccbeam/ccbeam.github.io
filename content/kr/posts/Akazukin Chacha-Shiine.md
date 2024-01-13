@@ -4,8 +4,6 @@ date: 2024-06-13
 description: MBTI로 알아보는 빙빙의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Akazukin Chacha
-  - Shiine
   - 빨간망토 차차
   - 빙빙
   - MBTI

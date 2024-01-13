@@ -4,8 +4,6 @@ date: 2024-01-12
 description: 주토피아의 닉 와일드 MBTI 알아보기
 author: Persona Colorist
 tags:
-  - ZOOTOPIA
-  - Nick Wilde
   - 주토피아
   - 닉 와일드
   - MBTI

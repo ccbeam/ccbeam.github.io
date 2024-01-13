@@ -4,8 +4,6 @@ date: 2024-05-08
 description: MBTI로 알아보는 제니트의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Who Made Me A Princess
-  - Jennette Margarita
   - 어느날 공주가 되어버렸다
   - 제니트
   - MBTI

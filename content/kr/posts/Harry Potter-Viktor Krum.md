@@ -4,8 +4,6 @@ date: 2024-04-29
 description: MBTI로 알아보는 빅터 크룸의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Harry Potter
-  - Viktor Krum
   - 해리 포터
   - 빅터 크룸
   - MBTI

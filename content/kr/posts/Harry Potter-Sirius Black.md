@@ -4,8 +4,6 @@ date: 2024-04-26
 description: MBTI로 알아보는 시리우스 블랙의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Harry Potter
-  - Sirius Black
   - 해리 포터
   - 시리우스 블랙
   - MBTI

@@ -4,8 +4,6 @@ date: 2023-12-25
 description: 크리스마스의 산타클로스 MBTI 알아보기
 author: Persona Colorist
 tags:
-  - Christmas
-  - Santa Claus
   - 크리스마스
   - 산타클로스
   - MBTI

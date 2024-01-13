@@ -4,8 +4,6 @@ date: 2024-07-04
 description: MBTI로 알아보는 버터컵의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - The Powerpuff Girls
-  - Buttercup
   - 파워퍼프걸
   - 버터컵
   - MBTI

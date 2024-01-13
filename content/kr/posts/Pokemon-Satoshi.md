@@ -4,8 +4,6 @@ date: 2024-06-19
 description: MBTI로 알아보는 한지우의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Pokemon
-  - Satoshi
   - 포켓몬스터
   - 한지우
   - MBTI

@@ -4,8 +4,6 @@ date: 2024-05-02
 description: MBTI로 알아보는 헤르미온느의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Harry Potter
-  - Hermione Granger
   - 해리 포터
   - 헤르미온느
   - MBTI

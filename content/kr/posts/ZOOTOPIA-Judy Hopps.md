@@ -4,8 +4,6 @@ date: 2024-01-09
 description: 주토피아의 주디 홉스 MBTI 알아보기
 author: Persona Colorist
 tags:
-  - ZOOTOPIA
-  - Judy Hopps
   - 주토피아
   - 주디 홉스
   - MBTI

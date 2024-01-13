@@ -4,8 +4,6 @@ date: 2024-03-03
 description: MBTI로 알아보는 세일러문의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Sailor Moon
-  - Usagi TSUKINO
   - 세일러문
   - 세일러문
   - MBTI

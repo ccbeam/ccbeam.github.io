@@ -4,8 +4,6 @@ date: 2024-05-17
 description: MBTI로 알아보는 이제키엘의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Who Made Me A Princess
-  - Ijiekiel Alpheus
   - 어느날 공주가 되어버렸다
   - 이제키엘
   - MBTI

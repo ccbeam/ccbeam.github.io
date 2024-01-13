@@ -4,8 +4,6 @@ date: 2024-06-04
 description: MBTI로 알아보는 알투디투의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Star Wars
-  - R2-D2
   - 스타 워즈
   - 알투디투
   - MBTI

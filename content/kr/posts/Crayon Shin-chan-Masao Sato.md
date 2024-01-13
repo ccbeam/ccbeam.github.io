@@ -4,8 +4,6 @@ date: 2024-07-16
 description: MBTI로 알아보는 훈이의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Crayon Shin-chan
-  - Masao Sato
   - 짱구는 못말려
   - 훈이
   - MBTI

@@ -4,8 +4,6 @@ date: 2024-03-09
 description: MBTI로 알아보는 꼬마세라의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Sailor Moon
-  - Chibiusa
   - 세일러문
   - 꼬마세라
   - MBTI

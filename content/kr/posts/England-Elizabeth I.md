@@ -4,8 +4,6 @@ date: 2024-01-24
 description: 영국의 엘리자베스 1세 MBTI 알아보기
 author: Persona Colorist
 tags:
-  - England
-  - Elizabeth I
   - 영국
   - 엘리자베스 1세
   - MBTI

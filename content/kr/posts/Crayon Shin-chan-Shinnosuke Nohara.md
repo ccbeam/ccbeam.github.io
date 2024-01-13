@@ -4,8 +4,6 @@ date: 2024-07-07
 description: MBTI로 알아보는 짱구의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Crayon Shin-chan
-  - Shinnosuke Nohara
   - 짱구는 못말려
   - 짱구
   - MBTI

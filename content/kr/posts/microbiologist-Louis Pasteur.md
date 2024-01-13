@@ -4,8 +4,6 @@ date: 2024-07-25
 description: MBTI로 알아보는 루이 파스퇴르의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - microbiologist
-  - Louis Pasteur
   - 미생물학
   - 루이 파스퇴르
   - MBTI

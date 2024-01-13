@@ -4,8 +4,6 @@ date: 2024-06-10
 description: MBTI로 알아보는 뚜뚜의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Akazukin Chacha
-  - Riiya
   - 빨간망토 차차
   - 뚜뚜
   - MBTI

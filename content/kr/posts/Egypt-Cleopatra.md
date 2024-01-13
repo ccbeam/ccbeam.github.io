@@ -4,8 +4,6 @@ date: 2024-02-26
 description: 이집트의 클레오 파트라 MBTI 알아보기
 author: Persona Colorist
 tags:
-  - Egypt
-  - Cleopatra
   - 이집트
   - 클레오 파트라
   - MBTI

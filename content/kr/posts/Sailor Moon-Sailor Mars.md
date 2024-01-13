@@ -4,8 +4,6 @@ date: 2024-03-15
 description: MBTI로 알아보는 세일러 마스의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Sailor Moon
-  - Sailor Mars
   - 세일러문
   - 세일러 마스
   - MBTI

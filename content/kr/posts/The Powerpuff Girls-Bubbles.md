@@ -4,8 +4,6 @@ date: 2024-07-01
 description: MBTI로 알아보는 버블의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - The Powerpuff Girls
-  - Bubbles
   - 파워퍼프걸
   - 버블
   - MBTI

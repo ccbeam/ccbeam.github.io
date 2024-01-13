@@ -4,8 +4,6 @@ date: 2024-05-14
 description: MBTI로 알아보는 루카스의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Who Made Me A Princess
-  - Lucas
   - 어느날 공주가 되어버렸다
   - 루카스
   - MBTI

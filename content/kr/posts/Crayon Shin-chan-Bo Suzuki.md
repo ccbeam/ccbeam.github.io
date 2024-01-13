@@ -4,8 +4,6 @@ date: 2024-07-19
 description: MBTI로 알아보는 맹구의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Crayon Shin-chan
-  - Bo Suzuki
   - 짱구는 못말려
   - 맹구
   - MBTI

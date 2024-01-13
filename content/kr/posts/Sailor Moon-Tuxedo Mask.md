@@ -4,8 +4,6 @@ date: 2024-03-27
 description: MBTI로 알아보는 턱시도 가면의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Sailor Moon
-  - Tuxedo Mask
   - 세일러문
   - 턱시도 가면
   - MBTI

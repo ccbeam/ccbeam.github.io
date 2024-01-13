@@ -4,8 +4,6 @@ date: 2024-05-05
 description: MBTI로 알아보는 론 위즐리의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Harry Potter
-  - Ronald Bilius Weasley
   - 해리 포터
   - 론 위즐리
   - MBTI

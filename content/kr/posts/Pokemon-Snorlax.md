@@ -4,8 +4,6 @@ date: 2024-06-22
 description: MBTI로 알아보는 잠만보의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Pokemon
-  - Snorlax
   - 포켓몬스터
   - 잠만보
   - MBTI

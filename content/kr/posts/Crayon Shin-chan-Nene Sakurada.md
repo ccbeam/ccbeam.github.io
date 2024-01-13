@@ -4,8 +4,6 @@ date: 2024-07-10
 description: MBTI로 알아보는 유리의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Crayon Shin-chan
-  - Nene Sakurada
   - 짱구는 못말려
   - 유리
   - MBTI

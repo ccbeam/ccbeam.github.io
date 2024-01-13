@@ -4,8 +4,6 @@ date: 2024-04-23
 description: MBTI로 알아보는 볼드모트의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Harry Potter
-  - Lord Voldemort
   - 해리 포터
   - 볼드모트
   - MBTI

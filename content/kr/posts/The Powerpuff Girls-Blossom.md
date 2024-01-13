@@ -4,8 +4,6 @@ date: 2024-06-28
 description: MBTI로 알아보는 블로썸의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - The Powerpuff Girls
-  - Blossom
   - 파워퍼프걸
   - 블로썸
   - MBTI

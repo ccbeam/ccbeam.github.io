@@ -4,8 +4,6 @@ date: 2024-04-05
 description: MBTI로 알아보는 프린세스 세레니티의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Sailor Moon
-  - Princess Serenity
   - 세일러문
   - 프린세스 세레니티
   - MBTI

@@ -1,11 +1,9 @@
 ---
 title: 어느날 공주가 되어버렸다의 아타나시아 MBTI 알아보기
 date: 2024-05-11
-description: 어느날 공주가 되어버렸다의 아타나시아 MBTI 알아보기
+description: MBTI로 알아보는 아타나시아의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Who Made Me A Princess
-  - Athanasia de Alger Obelia
   - 어느날 공주가 되어버렸다
   - 아타나시아
   - MBTI

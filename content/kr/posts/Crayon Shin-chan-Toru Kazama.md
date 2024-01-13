@@ -4,8 +4,6 @@ date: 2024-07-22
 description: MBTI로 알아보는 철수의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Crayon Shin-chan
-  - Toru Kazama
   - 짱구는 못말려
   - 철수
   - MBTI

@@ -4,8 +4,6 @@ date: 2024-04-14
 description: MBTI로 알아보는 덤블도어의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Harry Potter
-  - Albus Dumbledore
   - 해리 포터
   - 덤블도어
   - MBTI

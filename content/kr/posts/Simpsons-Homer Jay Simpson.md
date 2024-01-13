@@ -4,11 +4,8 @@ date: 2024-01-18
 description: 심슨의 호머 심슨 MBTI 알아보기
 author: Persona Colorist
 tags:
-  - Simpsons
-  - Homer Jay Simpson
   - 심슨
-  - 호머
-  - 심슨
+  - 호머 심슨
   - MBTI
   - ESFP
 draft: false

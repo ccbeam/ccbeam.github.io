@@ -4,8 +4,6 @@ date: 2024-03-12
 description: MBTI로 알아보는 세일러 비너스의 컬러 팔레트
 author: Persona Colorist
 tags:
-  - Sailor Moon
-  - Sailor Venus
   - 세일러문
   - 세일러 비너스
   - MBTI

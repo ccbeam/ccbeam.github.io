@@ -4,8 +4,6 @@ date: 2024-01-21
 description: 포켓몬스터의 피카츄 MBTI 알아보기
 author: Persona Colorist
 tags:
-  - Pokemon
-  - Pikachu
   - 포켓몬스터
   - 피카츄
   - MBTI

@@ -4,8 +4,6 @@ date: 2023-12-28
 description: 티니핑의 하츄핑 MBTI 알아보기
 author: Persona Colorist
 tags:
-  - Teenieping
-  - Heartsping
   - 티니핑
   - 하츄핑
   - MBTI
