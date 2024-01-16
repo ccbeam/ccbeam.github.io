@@ -1,6 +1,6 @@
 ---
 title: 스타트렉의 스팍 MBTI 알아보기
-date: 2024-01-01
+date: 2024-01-15
 description: 스타트렉의 스팍 MBTI 알아보기
 author: Persona Colorist
 tags:
