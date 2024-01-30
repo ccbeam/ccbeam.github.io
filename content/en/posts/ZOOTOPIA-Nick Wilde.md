@@ -39,10 +39,10 @@ Nick's adaptable and spontaneous nature aligns seamlessly with the perceptive qu
 
 ![color](https://i.imgur.com/MfMoOZH.png#center)
 
-1. '#c44420': Red symbolizing Nick Wilde's outfit  
-2. '#d3824e': Orange to represent Nick Wilde's fur color  
-3. '#604d15': Brown to symbolize Nick Wilde's shoes  
-4. '#6d1209': Red symbolizing Nick Wilde's tie
+1. `#c44420`: Red symbolizing Nick Wilde's outfit  
+2. `#d3824e`: Orange to represent Nick Wilde's fur color  
+3. `#604d15`: Brown to symbolize Nick Wilde's shoes  
+4. `#6d1209`: Red symbolizing Nick Wilde's tie
 
 ### Conclusion
 
