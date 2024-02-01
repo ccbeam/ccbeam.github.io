@@ -8,7 +8,7 @@ tags:
   - Nick Wilde
   - MBTI
   - ENTP
-draft: false
+draft: true
 ---
 
 Welcome, dear readers, to another riveting analysis where we delve into the intricate world of personality types through the lens of the renowned Myers-Briggs Type Indicator (MBTI). Today, we embark on a fascinating journey into the vibrant city of ZOOTOPIA, exploring the charismatic character of Nick Wilde and decoding the secrets of his personality. As an expert in MBTI analysis, I present to you the revelation that Nick Wilde's personality type is none other than ENTP.
