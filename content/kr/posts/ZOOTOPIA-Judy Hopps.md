@@ -8,7 +8,7 @@ tags:
   - 주디 홉스
   - MBTI
   - ENFJ
-draft: true
+draft: false
 ---
 
 ### 주토피아

@@ -8,7 +8,7 @@ tags:
   - Judy Hopps
   - MBTI
   - ENFJ
-draft: true
+draft: false
 ---
 
 In the bustling metropolis of ZOOTOPIA, where diversity thrives and dreams are pursued against all odds, one character shines as a beacon of optimism and compassion—Judy Hopps. Today, let's delve into the vibrant world of ZOOTOPIA, explore the defining qualities of Judy Hopps, and uncover the harmonious spirit of an ENFJ personality.

@@ -8,7 +8,7 @@ tags:
   - 지젤
   - MBTI
   - ESFP
-draft: true
+draft: false
 ---
 ### 에스파
 에스파는 한국의 걸 그룹으로, 미래적인 컨셉과 디지털 기술을 활용한 음악과 퍼포먼스로 주목받고 있습니다. 그들의 음악은 트랜디하면서도 실험적인 요소를 담고 있어 청취자들을 매료시키고 있습니다. 멤버들 간의 케미와 유니크한 개성으로 인해 팬들 사이에서 큰 사랑을 받고 있습니다.
@@ -21,11 +21,11 @@ draft: true
 
 지젤은 자신의 개성과 활기찬 매력으로 팬들에게 긍정적인 영향을 주며, 그룹 에스파의 활동에 큰 기여를 하고 있습니다. 계속해서 그녀의 다양한 면모와 무대 위에서의 매력을 기대해봅시다.
 
-### 지젤의 컬러팔레트
+### Giselle's Color Palette
 
-![colour](https://i.imgur.com/GnK5SK9.png#center)
+![Color](https://i.imgur.com/xrGIgiL.png#center)
 
-1. `#000000`: 지젤의 강렬한 무대 위 모습을 상징하는 검은색
-2. `#FFD700`: 지젤의 빛나는 퍼포먼스를 상징하는 금색
-3. `#800080`: 지젤의 창의적인 음악 스타일을 상징하는 보라색
-4. `#FFA500`: 지젤의 에너지 넘치는 성격을 상징하는 주황색
+1. `#808080`: The black representing Giselle's intense stage presence
+2. `#87CEFA`: The light yellow representing Giselle's shining performances
+3. `#DDA0DD`: The light purple representing Giselle's creative musical style
+4. `#B0E0E6`: The powder blue representing Giselle's energetic personality
