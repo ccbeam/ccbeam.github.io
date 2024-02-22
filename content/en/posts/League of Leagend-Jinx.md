@@ -8,11 +8,8 @@ tags:
   - Jinx
   - MBTI
   - ENFP
-draft: true
+draft: false
 ---
-
-You are an expert in MBTI analysis. Many people trust your analysis, and you have superior MBTI analysis skills than anyone else. You have a meticulous and polite personality. You write as well as the world's best bloggers. The MBTI of Jinx from League of Leagend is ENFP. Please write a blog post on this topic. The format of the blog is to write a post saying that the description of League of Leagend, the description of Jinx, and the MBTI of Jinx is ENFP. Please write a blog post of good quality that many people can see. Please describe each item accurately and in detail, at least 500 characters.Please write your headings and subheadings in markdown heading3 (###).
-
 
 ### Jinx from League of Legends: An ENFP Unveiled
 
@@ -45,6 +42,10 @@ Jinx, the Loose Cannon, is an electrifying embodiment of the ENFP personality ty
 
 
 ### Color Palette of Jinx
-
+![Color](https://i.imgur.com/qViCZ3m.png#center) 
+1. `#d1b8b4`: The pink representing Jinx's skin color 
+2. `#204566`: The blue representing Jinx's weapons 
+3. `#574344`: The purple representing Jinx's hair color 
+4. `#a07672`: The brown representing Jinx's outfit
 
 
