@@ -44,7 +44,7 @@ ESTP는 다음과 같은 행동을 보일 가능성이 높습니다.
 
 ### 욘두의 컬러팔레트
 
-![color](https://i.imgur.com/QpZFuuv.png)
+![color](https://i.imgur.com/QpZFuuv.png#center)
 
 
 1. `#0000FF`: 욘두의 푸른 피부를 상징하는 파란색

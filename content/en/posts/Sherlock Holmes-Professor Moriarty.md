@@ -47,7 +47,7 @@ Professor Moriarty stands as a testament to the power and complexity of the INTJ
 
 ### Color Palette of Professor Moriarty
 
-![color](https://i.imgur.com/GOhqoPL.png)
+![color](https://i.imgur.com/GOhqoPL.png#center)
 
  1. `#000000`: The black representing Professor Moriarty's cool intelligence 
  2. `#808080`: The gray representing Professor Moriarty's uncertain morality 

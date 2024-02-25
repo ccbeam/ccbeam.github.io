@@ -39,7 +39,7 @@ draft: false
 
 ### 셜록 홈즈의 컬러팔레트
 
-![color](https://i.imgur.com/doropoJ.png)
+![color](https://i.imgur.com/doropoJ.png#center)
 
 1. `#000000`: 셜록 홈즈의 냉철하고 분석적인 성격을 상징하는 검은색
 2. `#808080`: 셜록 홈즈의 중립적인 입장을 상징하는 회색

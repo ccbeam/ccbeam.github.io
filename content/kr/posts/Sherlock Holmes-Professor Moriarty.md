@@ -38,7 +38,7 @@ draft: false
 
 ### 모리아티 교수의 컬러팔레트
 
-![color](https://i.imgur.com/GOhqoPL.png)
+![color](https://i.imgur.com/GOhqoPL.png#center)
 
 1. `#000000`: 모리어티 교수의 냉철한 지능을 상징하는 검은색
 2. `#808080`: 모리어티 교수의 불확실한 도덕성을 상징하는 회색

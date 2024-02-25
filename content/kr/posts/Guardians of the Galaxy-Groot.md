@@ -36,7 +36,7 @@ draft: false
 
 ### 그루트의 컬러팔레트
 
-![color](https://i.imgur.com/nNTVPNx.png)
+![color](https://i.imgur.com/nNTVPNx.png#center)
 
 1. `#967765`: 그루트의 나무 몸체를 상징하는 갈색
 2. `#2a261e`: 그루트의 나무 껍질의 그림자를 상징하는 검은색

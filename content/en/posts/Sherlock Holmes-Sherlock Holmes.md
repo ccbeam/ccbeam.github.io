@@ -37,7 +37,7 @@ Sherlock Holmes is a fascinating character who is both brilliant and complex. Hi
 
 ### Color Palette of Sherlock Holmes
 
-![color](https://i.imgur.com/doropoJ.png)
+![color](https://i.imgur.com/doropoJ.png#center)
 
  1. `#000000`: The black symbolizing Sherlock Holmes' cool and analytical character
  2. `#808080`: The gray symbolizing Sherlock Holmes' neutral position 

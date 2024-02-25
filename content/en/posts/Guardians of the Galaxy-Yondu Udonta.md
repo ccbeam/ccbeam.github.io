@@ -40,7 +40,7 @@ Yondu Udonta's ESTP personality type plays a vital role in shaping his character
 ### Color Palette of Yondu Udonta
 
 
-![color](https://i.imgur.com/QpZFuuv.png)
+![color](https://i.imgur.com/QpZFuuv.png#center)
 
 
 1. `#0000FF`: The blue representing Yondu's blue skin 
