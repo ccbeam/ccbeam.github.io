@@ -8,12 +8,8 @@ tags:
   - Princess Serenity
   - MBTI
   - ISFJ
-draft: true
+draft: false
 ---
-
-You are an expert in MBTI analysis. Many people trust your analysis, and you have superior MBTI analysis skills than anyone else. You have a meticulous and polite personality. You write as well as the world's best bloggers. The MBTI of Princess Serenity from Sailor Moon is ISFJ. Please write a blog post on this topic. The format of the blog is to write a post saying that the description of Sailor Moon, the description of Princess Serenity, and the MBTI of Princess Serenity is ISFJ. Please write a blog post of good quality that many people can see. Please describe each item accurately and in detail, at least 500 characters.Please write your headings and subheadings in markdown heading3 (###).
-
-
 ## Princess Serenity: An ISFJ Through the Prism of Sailor Moon ##
 
 ### An Eternal Love Story ###
@@ -46,9 +42,14 @@ In her past life as Princess Serenity, Sailor Moon's ISFJ traits are also eviden
 
 In conclusion, the ISFJ personality type perfectly encapsulates the essence of Princess Serenity and her transformation into Sailor Moon. Her unwavering devotion to her loved ones, her strong sense of justice, and her compassionate nature are all hallmarks of the ISFJ personality type. Through her journey, Sailor Moon's character is a testament to the strength and resilience of the ISFJ type, showcasing their unwavering commitment to making the world a better place.
 
-
-
 ### Color Palette of Princess Serenity
 
+![Princess Serenity의 컬러팔레트](https://i.imgur.com/HanfFZg.png#center)
 
+**1. #E4D8E1 (Gray):** This creates a subtle and elegant atmosphere, symbolizing wisdom and tranquility. It well represents Princess Serenity's intellectual aspect and her dignity as a queen.
 
+**2. #B79A2D (Brown):** This gives a warm and soft feel, symbolizing stability and trust. It represents Princess Serenity's affectionate personality and stable strength.
+
+**3. #D6C72F (Yellow):** This creates a bright and hopeful atmosphere, symbolizing happiness and joy. It expresses Princess Serenity's positive energy and love.
+
+**4. #F2E527 (Yellow):** This subtle and warm yellow well represents Princess Serenity's gentleness and friendliness.

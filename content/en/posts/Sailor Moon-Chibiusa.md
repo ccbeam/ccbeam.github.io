@@ -8,11 +8,8 @@ tags:
   - Chibiusa
   - MBTI
   - ENFJ
-draft: true
+draft: false
 ---
-
-You are an expert in MBTI analysis. Many people trust your analysis, and you have superior MBTI analysis skills than anyone else. You have a meticulous and polite personality. You write as well as the world's best bloggers. The MBTI of Chibiusa from Sailor Moon is ENFJ. Please write a blog post on this topic. The format of the blog is to write a post saying that the description of Sailor Moon, the description of Chibiusa, and the MBTI of Chibiusa is ENFJ. Please write a blog post of good quality that many people can see. Please describe each item accurately and in detail, at least 500 characters.Please write your headings and subheadings in markdown heading3 (###).
-
 
 ### Chibiusa: The ENFJ Sailor Guardian of Love and Healing
 
@@ -48,9 +45,12 @@ Chibiusa's ENFJ personality is evident in many of her actions and behaviors. For
 
 Chibiusa is a complex and compelling character who is brought to life by her ENFJ personality. Her warmth, compassion, and empathy make her a valuable member of the Sailor Guardians, and she is always willing to fight for what she believes in.
 
-
-
 ### Color Palette of Chibiusa
 
+![Chibiusa의 컬러팔레트](https://i.imgur.com/HekSsPF.png(#center)
 
 
+1. `#d6c1ba` - This color is a soft pink, symbolizing Chibi Usa's feminine image and her soft personality. This color well represents her warm heart and kindness.
+2. `#ffffff` - This color is pure white, symbolizing Chibi Usa's purity and her clean and kind heart. This color symbolizes her purity and goodness, as well as her hopes and dreams for the future.
+3. `#de2583` - This color is a vibrant pink, symbolizing Chibi Usa's strength and courage. This color represents her strong will and courage, and her role as a Sailor Warrior who fights off evil.
+4. `#c9749f` - This color is a pink with a hint of purple, symbolizing Chibi Usa's loveliness and her emotional side. This color well expresses her warm heart, understanding, and her emotional aspects.

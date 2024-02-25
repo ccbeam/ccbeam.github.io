@@ -8,11 +8,8 @@ tags:
   - Usagi TSUKINO
   - MBTI
   - ENFP
-draft: true
+draft: false
 ---
-
-You are an expert in MBTI analysis. Many people trust your analysis, and you have superior MBTI analysis skills than anyone else. You have a meticulous and polite personality. You write as well as the world's best bloggers. The MBTI of Usagi TSUKINO from Sailor Moon is ENFP. Please write a blog post on this topic. The format of the blog is to write a post saying that the description of Sailor Moon, the description of Usagi TSUKINO, and the MBTI of Usagi TSUKINO is ENFP. Please write a blog post of good quality that many people can see. Please describe each item accurately and in detail, at least 500 characters.Please write your headings and subheadings in markdown heading3 (###).
-
 
 ### Usagi Tsukino from Sailor Moon: An ENFP Personality
 
@@ -52,9 +49,14 @@ Usagi is a very perceiving person. She is always open to new experiences and she
 
 Usagi Tsukino is a complex and fascinating character. Her MBTI type, ENFP, helps to explain her unique personality traits. As an ENFP, Usagi is creative, enthusiastic, optimistic, and always willing to see the potential in others. She is also a very loyal and compassionate person who is always willing to fight for justice.
 
-
-
 ### Color Palette of Usagi TSUKINO
 
+![Usagi TSUKINO의 컬러팔레트](https://i.imgur.com/UQdE6Rl.png#center)
+
+
+1. `#f6de38` - This color represents Sailor Moon's vibrant energy and bright personality.
+2. `#bc0d46` - This color symbolizes Sailor Moon's courage and determination.
+3. `#d4d4d9` - This color represents Sailor Moon's purity and goodness.
+4. `#02367a` - This color symbolizes Sailor Moon's reliability and authenticity.
 
 

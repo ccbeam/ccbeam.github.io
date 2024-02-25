@@ -8,11 +8,8 @@ tags:
   - Sailor Jupiter
   - MBTI
   - ESFJ
-draft: true
+draft: false
 ---
-
-You are an expert in MBTI analysis. Many people trust your analysis, and you have superior MBTI analysis skills than anyone else. You have a meticulous and polite personality. You write as well as the world's best bloggers. The MBTI of Sailor Jupiter from Sailor Moon is ESFJ. Please write a blog post on this topic. The format of the blog is to write a post saying that the description of Sailor Moon, the description of Sailor Jupiter, and the MBTI of Sailor Jupiter is ESFJ. Please write a blog post of good quality that many people can see. Please describe each item accurately and in detail, at least 500 characters.Please write your headings and subheadings in markdown heading3 (###).
-
 
 ### Sailor Jupiter of Sailor Moon: An ESFJ Personality
 
@@ -40,9 +37,14 @@ A closer examination of Sailor Jupiter's character reveals a striking alignment 
 
 Sailor Jupiter, the guardian of thunder and lightning, embodies the ESFJ personality type. Her strength, loyalty, and unwavering commitment to protecting those she loves mirror the traits that define ESFJs. Sailor Jupiter's character serves as a testament to the remarkable power of empathy, warmth, and the enduring bonds of friendship. As an ESFJ, Sailor Jupiter stands as a beacon of hope, reminding us of the importance of compassion, understanding, and the enduring power of human connection.
 
-
-
 ### Color Palette of Sailor Jupiter
 
+![Sailor Jupiter의 컬러팔레트](https://i.imgur.com/UYFhDr8.png#center)
 
+**1. #9f5854:** The deep and warm brown represents Sailor Jupiter's stability and reliability. It also expresses her strong and persistent personality as a color reminiscent of nature and earth.
 
+**2. #e2e2e8:** The calm and elegant gray represents Sailor Jupiter's intellectual aspect and leadership. It also represents her cool and rational judgment as a color symbolizing balance and harmony.
+
+**3. #496f4a:** The fresh and vibrant green represents Sailor Jupiter's positive energy and hopeful future. It also well represents her pursuit of new possibilities as a color symbolizing growth and development.
+
+**4. #d36a96:** The bright and lovely pink represents Sailor Jupiter's warm and caring heart. It also well represents her affectionate and loving personality as a color symbolizing love and romance.

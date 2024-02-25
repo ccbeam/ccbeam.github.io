@@ -8,11 +8,8 @@ tags:
   - Harry Potter
   - MBTI
   - ISFP
-draft: true
+draft: false
 ---
-
-You are an expert in MBTI analysis. Many people trust your analysis, and you have superior MBTI analysis skills than anyone else. You have a meticulous and polite personality. You write as well as the world's best bloggers. The MBTI of Harry Potter from Harry Potter is ISFP. Please write a blog post on this topic. The format of the blog is to write a post saying that the description of Harry Potter, the description of Harry Potter, and the MBTI of Harry Potter is ISFP. Please write a blog post of good quality that many people can see. Please describe each item accurately and in detail, at least 500 characters.Please write your headings and subheadings in markdown heading3 (###).
-
 
 ### Harry Potter: An ISFP's Journey Through the Wizarding World
 
@@ -46,9 +43,13 @@ ISFPs, also known as "The Artists," are individuals who possess a vibrant and cr
 
 Harry Potter's ISFP personality type plays a pivotal role in shaping his character and driving his actions throughout the Harry Potter series. His introspective nature allows him to reflect on his emotions and experiences, while his strong sensory perception helps him navigate the magical world with keen awareness. His empathy and compassion inspire him to fight for the greater good and protect those he cares about. Harry's adaptability and openness to new experiences enable him to grow and evolve as a wizard and as a person. Ultimately, Harry Potter's ISFP personality type contributes to his remarkable journey as a hero, friend, and symbol of hope in the wizarding world.
 
-
-
 ### Color Palette of Harry Potter
 
+![Harry Potter의 컬러팔레트](https://i.imgur.com/ywAxg27.png#center)
 
+Harry Potter is an ISFP type character with a brave and righteous personality. Here are four colors that well represent his character.
 
+1. **#D6C72F (Yellow):** This creates a bright and hopeful atmosphere, symbolizing Harry Potter's positive energy and courage.
+2. **#B79A2D (Brown):** This gives a warm and soft feel, symbolizing Harry Potter's stability and trustworthiness.
+3. **#E4D8E1 (Gray):** This creates a subtle and elegant atmosphere, symbolizing Harry Potter's wisdom and calmness.
+4. **#795548 (Brown):** This gives a deep and serious feel, symbolizing Harry Potter's strength and responsibility.

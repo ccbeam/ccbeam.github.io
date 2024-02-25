@@ -8,11 +8,8 @@ tags:
   - Sailor Neptune
   - MBTI
   - INFJ
-draft: true
+draft: false
 ---
-
-You are an expert in MBTI analysis. Many people trust your analysis, and you have superior MBTI analysis skills than anyone else. You have a meticulous and polite personality. You write as well as the world's best bloggers. The MBTI of Sailor Neptune from Sailor Moon is INFJ. Please write a blog post on this topic. The format of the blog is to write a post saying that the description of Sailor Moon, the description of Sailor Neptune, and the MBTI of Sailor Neptune is INFJ. Please write a blog post of good quality that many people can see. Please describe each item accurately and in detail, at least 500 characters.Please write your headings and subheadings in markdown heading3 (###).
-
 
 ## Sailor Neptune: The INFJ Sailor Guardian of the Deep Sea
 
@@ -40,9 +37,17 @@ Finally, INFJs are fiercely loyal to their friends and allies. This is an essent
 
 Sailor Neptune is a complex and fascinating character who embodies the INFJ personality type. She is a powerful warrior, a loyal friend, and a passionate advocate for justice. She is also a role model for INFJs everywhere, showing them that they can use their unique gifts and talents to make a difference in the world.
 
-
-
 ### Color Palette of Sailor Neptune
 
+![Sailor Neptune의 컬러팔레트](https://i.imgur.com/f8yAZrw.png#center)
 
+**1. #2b8377:** The deep and mysterious green represents Sailor Neptune's powerful strength and deep inner self. It also represents her continuous development and evolution as a color symbolizing growth and change.
+
+**2. #383f6a:** The blue reminiscent of the blue sea represents the connection of Sailor Neptune with the planet Neptune. It also represents her role as a protector as a color symbolizing peace and stability.
+
+**3. #72958e:** The calm and elegant gray represents Sailor Neptune's wisdom and maturity. It also represents her objective judgment and coordination as a color symbolizing neutrality and balance.
+
+**4. #52586e:** The subtle and delicate blue represents Sailor Neptune's feminine and charming charm. It also represents her empathetic ability and artistic sense as a color symbolizing emotion and intuition.
+
+**Note:** These colors were selected based on the image of Sailor Neptune and may vary according to individual preferences.
 

@@ -8,11 +8,8 @@ tags:
   - Sailor Uranus
   - MBTI
   - ISTP
-draft: true
+draft: false
 ---
-
-You are an expert in MBTI analysis. Many people trust your analysis, and you have superior MBTI analysis skills than anyone else. You have a meticulous and polite personality. You write as well as the world's best bloggers. The MBTI of Sailor Uranus from Sailor Moon is ISTP. Please write a blog post on this topic. The format of the blog is to write a post saying that the description of Sailor Moon, the description of Sailor Uranus, and the MBTI of Sailor Uranus is ISTP. Please write a blog post of good quality that many people can see. Please describe each item accurately and in detail, at least 500 characters.Please write your headings and subheadings in markdown heading3 (###).
-
 
 ### Sailor Uranus: ISTP Personality Revealed
 
@@ -40,9 +37,17 @@ Sailor Uranus embodies many of the traits associated with the ISTP personality t
 
 Sailor Uranus is a complex and interesting character who embodies many of the traits associated with the ISTP personality type. She is independent, logical, and practical, but she also has a mischievous side and a strong sense of loyalty. Sailor Uranus is a valuable member of the Sailor Guardians team, and she always brings her unique perspective and skills to the fight against evil.
 
-
-
 ### Color Palette of Sailor Uranus
 
+![Sailor Uranus의 컬러팔레트](https://i.imgur.com/dXKSTr8.png#center)
 
+**1. #212960:** The deep and mysterious navy blue represents Sailor Uranus's powerful strength and charisma. It also represents the sky and the universe, Sailor Uranus's realm of dominion, as a color symbolizing the night sky.
+
+**2. #dddce2:** The calm and elegant gray represents Sailor Uranus's intellectual aspect and leadership. It also represents her cool and rational judgment as a color symbolizing balance and harmony.
+
+**3. #d4b947:** The warm and vibrant yellow represents Sailor Uranus's positive energy and hopeful future. It also well represents her pursuit of new possibilities as a color symbolizing creativity and challenge spirit.
+
+**4. #b9a864:** The deep and stable brown represents Sailor Uranus's trustworthiness and dedicated attitude. It also well represents her strength and perseverance as a color symbolizing nature and earth.
+
+**Note:** These colors were selected based on the image of Sailor Uranus and may vary according to individual preferences.
 

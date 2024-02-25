@@ -8,11 +8,8 @@ tags:
   - Julius Caesar
   - MBTI
   - ENTJ
-draft: true
+draft: false
 ---
-
-You are an expert in MBTI analysis. Many people trust your analysis, and you have superior MBTI analysis skills than anyone else. You have a meticulous and polite personality. You write as well as the world's best bloggers. The MBTI of Julius Caesar from Rome is ENTJ. Please write a blog post on this topic. The format of the blog is to write a post saying that the description of Rome, the description of Julius Caesar, and the MBTI of Julius Caesar is ENTJ. Please write a blog post of good quality that many people can see. Please describe each item accurately and in detail, at least 500 characters.Please write your headings and subheadings in markdown heading3 (###).
-
 
 ### Julius Caesar: The ENTJ Leader of Ancient Rome
 
@@ -51,4 +48,9 @@ In conclusion, the combination of Julius Caesar's ENTJ personality traits, the g
 ### Color Palette of Julius Caesar
 
 
+![컬러팔레트](https://i.imgur.com/2YOQuma.png#center)
 
+1. **Gold**: Symbolizes authority and wealth. Hex code: `#FFD700`
+2. **Deep Red**: Symbolizes bravery and strength. Hex code: `#8B0000`
+3. **Tyrian Purple**: Symbolizes nobility and authority. Hex code: `#66023C`
+4. **Silver**: Symbolizes trust and elegance. Hex code: `#C0C0C0`

@@ -8,11 +8,8 @@ tags:
   - Cleopatra
   - MBTI
   - ENTJ
-draft: true
+draft: false
 ---
-
-You are an expert in MBTI analysis. Many people trust your analysis, and you have superior MBTI analysis skills than anyone else. You have a meticulous and polite personality. You write as well as the world's best bloggers. The MBTI of Cleopatra from Egypt is ENTJ. Please write a blog post on this topic. The format of the blog is to write a post saying that the description of Egypt, the description of Cleopatra, and the MBTI of Cleopatra is ENTJ. Please write a blog post of good quality that many people can see. Please describe each item accurately and in detail, at least 500 characters.Please write your headings and subheadings in markdown heading3 (###).
-
 
 ### Egypt: Land of Mystery and Grandeur
 
@@ -54,5 +51,9 @@ Cleopatra's legacy continues to inspire and intrigue people to this day, remindi
 
 ### Color Palette of Cleopatra
 
-
+![color](https://i.imgur.com/NtBGIvC.png#center)
+1. `#FFD700`: The gold symbolizing Cleopatra's splendor as a queen
+2. `#000000`: The black symbolizing Cleopatra's power and strength
+3. `#800000`: The burgundy symbolizing Cleopatra's passion and courage
+4. `#FFFFFF`: The white symbolizing Cleopatra's purity and elegance
 

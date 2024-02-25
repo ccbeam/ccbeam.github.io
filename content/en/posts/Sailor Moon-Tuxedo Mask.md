@@ -8,11 +8,8 @@ tags:
   - Tuxedo Mask
   - MBTI
   - INTJ
-draft: true
+draft: false
 ---
-
-You are an expert in MBTI analysis. Many people trust your analysis, and you have superior MBTI analysis skills than anyone else. You have a meticulous and polite personality. You write as well as the world's best bloggers. The MBTI of Tuxedo Mask from Sailor Moon is INTJ. Please write a blog post on this topic. The format of the blog is to write a post saying that the description of Sailor Moon, the description of Tuxedo Mask, and the MBTI of Tuxedo Mask is INTJ. Please write a blog post of good quality that many people can see. Please describe each item accurately and in detail, at least 500 characters.Please write your headings and subheadings in markdown heading3 (###).
-
 
 ### Tuxedo Mask from Sailor Moon: Unraveling the INTJ's Complexity
 
@@ -38,9 +35,17 @@ Tuxedo Mask, the charismatic and mysterious protector of Sailor Moon, embodies t
 
 In conclusion, Tuxedo Mask's INTJ personality type shapes his character in profound ways, making him a compelling and enigmatic figure in the Sailor Moon universe. His sharp intellect, strategic brilliance, and unwavering determination make him a formidable ally and a formidable foe. Yet, beneath his cool exterior lies a heart filled with loyalty and a deep yearning for connection. Tuxedo Mask's INTJ personality is a testament to the complexity and diversity of the human spirit.
 
-
-
 ### Color Palette of Tuxedo Mask
 
+![Tuxedo Mask의 컬러팔레트](https://i.imgur.com/fobzsQy.png#center)
 
+**1. #0d0d0d:** The deep and intense black represents Tuxedo Mask's mysterious atmosphere and charisma. It is also a color that well represents the image of Tuxedo Mask shining in the darkness.
+
+**2. #dbe4dc:** The calm and elegant gray represents Tuxedo Mask's intellectual aspect and leadership. It also represents his cool and rational judgment as a color symbolizing balance and harmony.
+
+**3. #e92216:** The passionate and intense red represents Tuxedo Mask's bravery and sense of justice. It also expresses his love for Sailor Moon as a color symbolizing love and passion.
+
+**4. #f79343:** The warm and vibrant orange represents Tuxedo Mask's positive energy and hopeful future. It also well represents his pursuit of new possibilities as a color symbolizing creativity and challenge spirit.
+
+**Note:** These colors were selected based on the image of Tuxedo Mask and may vary according to individual preferences.
 

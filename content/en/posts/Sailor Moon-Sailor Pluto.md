@@ -8,13 +8,8 @@ tags:
   - Sailor Pluto
   - MBTI
   - ISTJ
-draft: true
+draft: false
 ---
-
-You are an expert in MBTI analysis. Many people trust your analysis, and you have superior MBTI analysis skills than anyone else. You have a meticulous and polite personality. You write as well as the world's best bloggers. The MBTI of Sailor Pluto from Sailor Moon is ISTJ. Please write a blog post on this topic. The format of the blog is to write a post saying that the description of Sailor Moon, the description of Sailor Pluto, and the MBTI of Sailor Pluto is ISTJ. Please write a blog post of good quality that many people can see. Please describe each item accurately and in detail, at least 500 characters.Please write your headings and subheadings in markdown heading3 (###).
-
-
-### Sailor Pluto: The ISTJ of the Sailor Guardians
 
 ### Sailor Pluto: The Guardian of Time and Space
 
@@ -40,9 +35,16 @@ However, Sailor Pluto's ISTJ personality type can also lead to some weaknesses. 
 
 Sailor Pluto is a powerful and mysterious Sailor Guardian with a complex personality. Her ISTJ personality type gives her several strengths that make her a valuable member of the team, but it can also lead to some weaknesses. Despite her flaws, Sailor Pluto is a loyal and dependable friend who is always willing to fight for what she believes in.
 
-
-
 ### Color Palette of Sailor Pluto
 
+![Sailor Pluto의 컬러팔레트](https://i.imgur.com/lGVGsDH.png#center)
 
+**1. #2b2b2c:** The deep black represents Sailor Pluto's mysterious atmosphere and powerful strength. It also emphasizes Sailor Pluto's important role as a color symbolizing the ability to control time and space.
 
+**2. #5a5092:** The noble purple represents Sailor Pluto's wisdom and elegance. It also expresses Sailor Pluto's inner beauty as a color symbolizing deep emotion and intuition.
+
+**3. #20614b:** The calm green represents Sailor Pluto's stable character and dedicated attitude. It also expresses Sailor Pluto's continuous development as a color symbolizing growth and change.
+
+**4. #c45879:** The soft pink represents Sailor Pluto's feminine charm and warm heart. It also expresses Sailor Pluto's role as a protector as a color symbolizing love and compassion.
+
+**Note:** These colors were selected based on the image of Sailor Pluto and may vary according to individual preferences.

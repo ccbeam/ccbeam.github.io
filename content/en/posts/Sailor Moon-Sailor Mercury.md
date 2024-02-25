@@ -8,11 +8,8 @@ tags:
   - Sailor Mercury
   - MBTI
   - ISFJ
-draft: true
+draft: false
 ---
-
-You are an expert in MBTI analysis. Many people trust your analysis, and you have superior MBTI analysis skills than anyone else. You have a meticulous and polite personality. You write as well as the world's best bloggers. The MBTI of Sailor Mercury from Sailor Moon is ISFJ. Please write a blog post on this topic. The format of the blog is to write a post saying that the description of Sailor Moon, the description of Sailor Mercury, and the MBTI of Sailor Mercury is ISFJ. Please write a blog post of good quality that many people can see. Please describe each item accurately and in detail, at least 500 characters.Please write your headings and subheadings in markdown heading3 (###).
-
 
 ### Sailor Mercury: The ISFJ Guardian of Water and Intelligence
 
@@ -40,9 +37,12 @@ Sailor Mercury's Feeling preference fosters a strong sense of unity and teamwork
 
 Sailor Mercury, with her ISFJ personality, embodies the qualities of intelligence, loyalty, and unwavering support. As the Guardian of Water, she combines her practical skills, empathy, and organized approach to life to protect the innocent and fight against evil. In the Sailor Guardians, she is a valued member, providing stability, emotional support, and unwavering dedication to the cause of justice.
 
-
-
 ### Color Palette of Sailor Mercury
 
+![Sailor Mercury의 컬러팔레트](https://i.imgur.com/ZxMQMCS.png#center)
+1. `#455fb3` - This color is a deep blue, representing the blue which is the primary color of Sailor Mercury. Mercury symbolizes the god of knowledge and wisdom in Roman mythology, so this color symbolizes her knowledge.
+2. `#cfe0f2` - This color is a light gray, representing the soft color of Sailor Mercury's outfit. This color well represents her soft and kind personality.
+3. `#494e79` - This color is a somewhat deep blue, very similar to the color of Sailor Mercury's hair. This color symbolizes her identity and role, as well as her cool and calm personality.
+4. `#FFFFFF` - This color is pure white, symbolizing Sailor Mercury's pure and kind heart. This color symbolizes her purity and goodness, as well as her hopes and dreams for the future.
 
 

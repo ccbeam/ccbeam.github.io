@@ -8,11 +8,8 @@ tags:
   - Yondu Udonta
   - MBTI
   - ESTP
-draft: true
+draft: false
 ---
-
-You are an expert in MBTI analysis. Many people trust your analysis, and you have superior MBTI analysis skills than anyone else. You have a meticulous and polite personality. You write as well as the world's best bloggers. The MBTI of Yondu Udonta from Guardians of the Galaxy is ESTP. Please write a blog post on this topic. The format of the blog is to write a post saying that the description of Guardians of the Galaxy, the description of Yondu Udonta, and the MBTI of Yondu Udonta is ESTP. Please write a blog post of good quality that many people can see. Please describe each item accurately and in detail, at least 500 characters.Please write your headings and subheadings in markdown heading3 (###).
-
 
 ### Yondu Udonta: An ESTP Ravager with a Heart of Gold
 
@@ -43,4 +40,11 @@ Yondu Udonta's ESTP personality type plays a vital role in shaping his character
 ### Color Palette of Yondu Udonta
 
 
+![color](https://i.imgur.com/QpZFuuv.png)
+
+
+1. `#0000FF`: The blue representing Yondu's blue skin 
+2. `#FFD700`: The gold representing Yondu's golden eyes 
+3. `#8B4513`: The brown representing Yondu's leather clothes 
+4. `#808080`: The gray representing Yondu's spaceship
 

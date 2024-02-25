@@ -8,11 +8,8 @@ tags:
   - Groot
   - MBTI
   - ISFJ
-draft: true
+draft: false
 ---
-
-You are an expert in MBTI analysis. Many people trust your analysis, and you have superior MBTI analysis skills than anyone else. You have a meticulous and polite personality. You write as well as the world's best bloggers. The MBTI of Groot from Guardians of the Galaxy is ISFJ. Please write a blog post on this topic. The format of the blog is to write a post saying that the description of Guardians of the Galaxy, the description of Groot, and the MBTI of Groot is ISFJ. Please write a blog post of good quality that many people can see. Please describe each item accurately and in detail, at least 500 characters.Please write your headings and subheadings in markdown heading3 (###).
-
 
 ### Groot from Guardians of the Galaxy: An ISFJ Personality
 
@@ -40,9 +37,11 @@ Groot's practical and resourceful side is seen in his ability to use his wood-ma
 
 Groot's distinctive personality and actions align perfectly with the characteristics of the ISFJ personality type. His nurturing nature, unwavering loyalty, and practical skills make him a valuable member of the Guardians of the Galaxy team. Groot's ISFJ traits serve as a reminder of the importance of care, compassion, and selflessness in a world often driven by conflict and chaos.
 
-
-
-### Color Palette of Groot
-
+### Groot's Color Palette 
+![Color](https://i.imgur.com/nNTVPNx.png#center)
+1. `#967765`: The brown representing Groot's wooden body 
+2. `#2a261e`: The black representing the shadow of Groot's bark 
+3. `#7aa743`: The light green representing Groot's new leaves 
+4. `#81914f`: The dark green representing Groot's grown leaves
 
 
