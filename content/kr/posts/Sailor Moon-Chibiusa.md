@@ -38,7 +38,7 @@ ENFJ 유형인 꼬마세라는 다른 사람들에게 영향력을 발휘하며,
 
 ### 꼬마세라의 컬러팔레트
 
-![Chibiusa의 컬러팔레트](https://i.imgur.com/HekSsPF.png(#center)
+![Chibiusa의 컬러팔레트](https://i.imgur.com/HekSsPF.png#center)
 
 
 1. `#d6c1ba `- 이 색상은 부드러운 핑크색으로, 꼬마세라의 여성스러운 이미지와 그녀의 부드러운 성격을 상징합니다. 이 색상은 그녀의 따뜻한 마음과 친절함을 잘 나타냅니다. 

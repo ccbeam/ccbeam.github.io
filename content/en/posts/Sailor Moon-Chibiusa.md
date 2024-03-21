@@ -47,7 +47,7 @@ Chibiusa is a complex and compelling character who is brought to life by her ENF
 
 ### Color Palette of Chibiusa
 
-![Chibiusa의 컬러팔레트](https://i.imgur.com/HekSsPF.png(#center)
+![Chibiusa의 컬러팔레트](https://i.imgur.com/HekSsPF.png#center)
 
 
 1. `#d6c1ba` - This color is a soft pink, symbolizing Chibi Usa's feminine image and her soft personality. This color well represents her warm heart and kindness.
